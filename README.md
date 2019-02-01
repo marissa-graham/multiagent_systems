@@ -4,9 +4,7 @@ Specs for all assignments were given in terms of high-level objectives (no imple
 
 These are a good demonstration of my current (as of January 2019) habits with respect to documentation, code style and organization, class usage, and implementation of bits of math. I also figured out how to do a lot of new things in Matplotlib during this semester and the figures included in these files are good demos for that.
 
-TODO:
-
-1) Go back and add the instructions or at least a short description of the objective for 
+TODO: Go back and add the instructions or at least a short description of the objective for 
 * Lab 3
 * Lab 2
 * Lab 1
